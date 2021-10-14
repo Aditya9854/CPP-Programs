@@ -11,11 +11,11 @@ class Calc
        public  :
                 int Sum,Sub;
 
-       Calc()                                                 ///Default Constructor
+       Calc()                                                 //Default Constructor
        {
              Num1 = Num2 = Sum = Sub = 0;
 
-             cout<<"\n Inside Default Constructor.."<<endl;
+             cout<<"\n Inside Default Constructor..."<<endl;
 
        }
 
