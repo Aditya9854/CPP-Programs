@@ -31,9 +31,9 @@
 
                void Modify()                                                   //Member Function
                {
-                       Num1 = 66;
-                       Num2 = 33;
-                       Per  = 82.5;
+                       Num1 = 83;
+                       Num2 = 45;
+                       Per  = 83.9;
 
                        cout<<"\n Inside Member Function Modify().."<<endl;
                }
